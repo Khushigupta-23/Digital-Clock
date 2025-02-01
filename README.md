@@ -4,10 +4,13 @@ I’m excited to share my Real-Time Digital Clock, a sleek and functional projec
 ## 🔧 Key Features:
 
 Real-time updates every second, ensuring accuracy.
+
 Simple yet modern digital clock interface.
 
 ## 🌐 Technologies Used:
 
 HTML: For creating the structure and layout of the clock.
+
 CSS: For styling the clock and making it visually appealing.
+
 JavaScript: For handling real-time updates and dynamic changes.

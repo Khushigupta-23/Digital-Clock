@@ -14,3 +14,6 @@ HTML: For creating the structure and layout of the clock.
 CSS: For styling the clock and making it visually appealing.
 
 JavaScript: For handling real-time updates and dynamic changes.
+
+## Live Demo
+ https://khushigupta-23.github.io/Digital-Clock/
